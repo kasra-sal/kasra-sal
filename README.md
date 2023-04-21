@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <h1 align="center">Hi 👋, I'm Kasra Salehi</h1><br><h3 align="center">A Cybersecurity Enthusiast from Canada</h3><br><br>- 🔭 I’m currently working on **Network Automation**<br><br>- 🌱 I’m currently learning **Cybersecurity, DevSecOps, Cloud Security**<br><br>- 💬 Ask me about **Networking and IT related stuff**<br><br>- 📫 How to reach me **kasra.sal@protonmail.com**<br><br>- ⚡ Fun fact **Financially Interested Attacks are More Common than Harm Intended Attacks**<br><br>
 
 
